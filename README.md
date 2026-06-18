@@ -21,9 +21,9 @@ Final-year ICT student at BUP | Interning at Brain Station 23 | Aspiring Softwar
 ---
 
 ## 📌 Featured Projects
-- 🧠 [Brain Tumor Detection Web App]([link](https://github.com/UmmeFarhanaSumaiya/Brain-Tumor-Detection-and-classification)) — Deep Learning + Explainable AI
-- 🌿 [PlasticTrack+]([link](https://github.com/UmmeFarhanaSumaiya/PlasticTracker-)) — Desktop app for plastic consumption tracking
-- 📚 [Arohon]([link](https://github.com/UmmeFarhanaSumaiya/Ahoron)) — University club & career platform
+- 🧠 [Brain Tumor Detection Web App](https://github.com/UmmeFarhanaSumaiya/Brain-Tumor-Detection-and-classification) — Deep Learning + Explainable AI
+- 🌿 [PlasticTrack+](https://github.com/UmmeFarhanaSumaiya/PlasticTracker-) — Desktop app for plastic consumption tracking
+- 📚 [Arohon](https://github.com/UmmeFarhanaSumaiya/Ahoron) — University club & career platform
 
 ---
 
